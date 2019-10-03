@@ -62,7 +62,7 @@
     files: '\.go$'
     language: 'script'
     description: "Runs `go build`, requires golang"
-    id: go-imports
+-   id: go-imports
     name: 'go-imports'
     entry: run-go-imports.sh
     files: '\.go$'
